@@ -1,5 +1,5 @@
 <p align="center" >
-    <img src="https://raw.githubusercontent.com/Game-K-Hack/VRweb/main/images/WebVR.png" width=150 />
+    <img src="https://raw.githubusercontent.com/Game-K-Hack/GPT-API/logo.png" width=150 />
 </p>
 
 <br>
@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/static/v1?label=release&message=v1.0&color=blue" alt="Release - v1.2" />
   </a>
   <a href="#">
-    <img src="https://img.shields.io/static/v1?label=version&message=unstable&color=red" alt="Version - Unstable" />
+    <img src="https://img.shields.io/static/v1?label=version&message=stable&color=green" alt="Version - Stable" />
   </a>
   <a href="https://choosealicense.com/licenses/mit">
     <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License" />
@@ -23,13 +23,15 @@
 
 <p align="center">
   <a href="#description">Description</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#setting">Setting</a> •
   <a href="#demo">Demo</a>
 </p>
 
 <br>
 <br>
+
+## Description
+
+This repository is a complementary library to OpenAI, which adds the GPT3 model.
 
 ## Demo
 
