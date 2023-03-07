@@ -1,5 +1,5 @@
 <p align="center" >
-    <img src="https://raw.githubusercontent.com/Game-K-Hack/GPT-API/logo.png" width=150 />
+    <img src="https://raw.githubusercontent.com/Game-K-Hack/GPT-API/main/logo.png" width=150 />
 </p>
 
 <br>
